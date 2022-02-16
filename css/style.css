@@ -1,0 +1,20 @@
+body {
+  background-color: beige;
+}
+
+.container {
+  background-color: white;
+  padding: 25px;
+  margin: 100px 300px auto;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  display: flex;
+  background-color: rebeccapurple;
+  color: blanchedalmond;
+  font-size: 23px;
+  padding: 10px;
+}
